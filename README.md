@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     
 </head>
-<body background="background.jpg" style="background-repeat: no repeat; background-size: cover;">
+<body background="background.jpg" style="background-repeat: no repeat; background-size: cover; background-color: pink;">
     <h1 style="color:maroon;"> About Me</h1>
     <p style=" text-align:center;"> Hello, I'm Daisy Jane but you can call me <b>"Daisy"</b> I studied at KAPATAGAN NATIONAL HIGH SCHOOL.</p>
     <p style="font-family: Arial, Helvetica, sans-serif; text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; border: solid black"> - I am a happy person and livey person. I enjoy cooking and cleaning. I like to sing and drawing and i always play basketball and volleybal.</p>
