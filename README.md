@@ -6,12 +6,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     
-    <style>
-        div{
-            width: 100px;
-            display: inline-block;
-        }
-    </style>
 </head>
 <body background="background.jpg" style="background-repeat: no repeat; background-size: cover;">
     <h1 style="color:maroon;"> About Me</h1>
